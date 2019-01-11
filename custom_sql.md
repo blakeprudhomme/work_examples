@@ -1,4 +1,4 @@
-### request: output report with:
+### Requested report with:
 - All stores for all active accounts
 - exclude any stores whose name match the format xxxx-xxxx-xxxx-xxxx
 - show the qty of the store's cars/vans/trucks?
