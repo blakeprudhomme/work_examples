@@ -38,3 +38,5 @@ AND s.name NOT REGEXP '^[A-Z0-9][A-Z0-9][A-Z0-9-][A-Z0-9-]-[A-Z0-9-][A-Z0-9-][A-
 GROUP BY s.name
 ORDER BY a.subdomain;
 ```
+
+_Note: This request and query has been generalized to protect data_
